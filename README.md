@@ -1,6 +1,6 @@
 
 <p align="center"><img src="https://count.getloli.com/get/@:lowercasenamehere" alt=":lowercasenamehere" /></p>
-
+<!--
 <p align="center">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
                         alt="javascript">
@@ -46,7 +46,7 @@
                         alt="bulma">
 <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">  
 </p>
-
+-->
 <p align="center">
   <!-- 
   <a href="https://github.com/lowercasenamehere"><img src="https://img.shields.io/github/followers/lowercasenamehere?style=for-the-badge"></img></a>
